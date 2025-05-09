@@ -1,0 +1,6 @@
+Jim Halpert, 30, Salesman
+Pam Beesly, 28, Receptionist
+Dwight Schrute, 32, Assistant to the Regional Manager
+Michael Scott, 40, Regional Manager
+Ryan Howard, 25, Temp
+Angela Martin, 35, Head of Accounting
